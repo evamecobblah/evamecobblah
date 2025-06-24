@@ -1,6 +1,6 @@
 # Hi 👋, I'm Evame Cobblah
 
-I'm passionate about **cloud engineering and security**. My goal is to design, build, and maintain cloud solutions that are not only scalable and efficient but also secure and compliant. I'm constantly learning and earning certifications to deepen my expertise in:
+I'm a **cloud engineer and passionate about cloud security**. My goal is to design, build, and maintain cloud solutions that are not only scalable and efficient but also secure and compliant. I'm constantly learning and earning certifications to deepen my expertise in:
 
 - 🔐 Threat prevention  
 - 🔏 Data privacy  
