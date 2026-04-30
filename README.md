@@ -13,20 +13,5 @@ Let's connect and collaborate on creating safer, more resilient cloud infrastruc
 - ✉️ Email: evamecobblah@gmail.com
 
 ## 🛠️ Languages and Tools
-# Hi 👋, I'm Evame Cobblah
 
-I'm a **cloud engineer and passionate about cloud security**. My goal is to design, build, and maintain cloud solutions that are not only scalable and efficient but also secure and compliant. I'm constantly learning and earning certifications to deepen my expertise in:
-
-- 🔐 Threat prevention  
-- 🔏 Data privacy  
-- ☁️ Cloud security best practices  
-
-Let's connect and collaborate on creating safer, more resilient cloud infrastructures!
-
-## 📫 Contact
-- 💼 LinkedIn: [Evame Cobblah](https://www.linkedin.com/in/evame-yao-cobblah-b5bba5225/)
-- ✉️ Email: evamecobblah@gmail.com
-
-## 🛠️ Languages and Tools
-
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,kubernetes,linux,githubactions,terraform,python&perline=9)](https://skillicons.dev)
