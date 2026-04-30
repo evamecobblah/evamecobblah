@@ -4,7 +4,7 @@ I'm a **cloud engineer and specialize in cloud security**. My goal is to design,
 
 - 🔐 Threat Detection, Prevention & Response
 - ⚙️ DevSecOps & Secure CI/CD
-- ☁️ Cloud & Infrastructure Security (AWS, IAM, Networking)
+- ☁️ Cloud & Infrastructure Security 
 - 🐳 Container & Kubernetes Security
 
 
