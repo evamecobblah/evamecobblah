@@ -1,12 +1,18 @@
 # Hi 👋, I'm Evame Cobblah
 
-I'm a **cloud engineer and specialize in cloud security**. My goal is to design, build, and maintain cloud solutions that are not only scalable and efficient but also secure and compliant. I'm constantly learning and earning certifications to deepen my expertise in:
+I’m a **Cloud Engineer** focused on designing, building, and operating scalable, reliable, and secure cloud-native systems.
 
-- 🔐 Threat Detection, Prevention & Response
-- ⚙️ DevSecOps & Secure CI/CD
-- ☁️ Cloud & Infrastructure Security 
-- 🐳 Container & Kubernetes Security
+I focus on DevOps, Platform Engineering, and SRE to build efficient, reliable infrastructure and improve developer experience.
 
+My experience and continuous learning span across:
+
+⚙️ DevOps & CI/CD Automation
+☁️ Cloud Infrastructure (AWS & cloud-native systems)
+🏗️ Platform Engineering & Infrastructure Automation
+⚙️ SRE Practices (Reliability, Monitoring & Incident Response)
+🐳 Containerization & Kubernetes
+
+🔐 Security is integrated into everything I build, with a focus on secure-by-design systems and DevSecOps practices.
 
 ## 📫 Contact
 - 💼 LinkedIn: [Evame Cobblah](https://www.linkedin.com/in/evame-yao-cobblah-b5bba5225/)
