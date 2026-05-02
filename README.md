@@ -6,11 +6,11 @@ I focus on DevOps, Platform Engineering, and SRE to build efficient, reliable in
 
 My experience and continuous learning span across:
 
-⚙️ DevOps & CI/CD Automation
-☁️ Cloud Infrastructure (AWS & cloud-native systems)
-🏗️ Platform Engineering & Infrastructure Automation
-⚙️ SRE Practices (Reliability, Monitoring & Incident Response)
-🐳 Containerization & Kubernetes
+- ⚙️ DevOps & CI/CD Automation
+- ☁️ Cloud Infrastructure (AWS & cloud-native systems)
+- 🏗️ Platform Engineering & Infrastructure Automation
+- ⚙️ SRE Practices (Reliability, Monitoring & Incident Response)
+- 🐳 Containerization & Kubernetes
 
 🔐 Security is integrated into everything I build, with a focus on secure-by-design systems and DevSecOps practices.
 
