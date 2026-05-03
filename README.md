@@ -20,4 +20,4 @@ My experience and continuous learning span across:
 
 ## 🛠️ Languages and Tools
 
- [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,kubernetes,linux,githubactions,terraform,python&perline=9)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,kubernetes,linux,github,githubactions,terraform,python&perline=10)](https://skillicons.dev)
