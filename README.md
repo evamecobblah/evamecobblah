@@ -11,8 +11,8 @@ My experience and continuous learning span across:
 - 🏗️ Platform Engineering & Infrastructure Automation
 - ⚙️ SRE Practices (Reliability, Monitoring & Incident Response)
 - 🐳 Containerization & Kubernetes
+- 🔐 Cloud Security
 
-🔐 Security is integrated into everything I build, with a focus on secure-by-design systems and DevSecOps practices.
 
 ## 📫 Contact
 - 💼 LinkedIn: [Evame Cobblah](https://www.linkedin.com/in/evame-yao-cobblah-b5bba5225/)
